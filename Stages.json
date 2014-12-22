@@ -1,11 +1,88 @@
 {
 	"Stages": [
-		{"Brainstorm": "determine scope and purpose of the project"},
-		{"Refine":     "determine a path for implementing the project"},
-		{"Mockup":     "create a proof-of-concept"},
-		{"Lambda":     "create a minimum viable product"},
-		{"Alpha":      "create a working prototype that can be criticized and changed"},
-		{"Beta":       "create a working product that can be refined and stablized"},
-		{"Stable":     "finalize and distribute the working product"}
+		{"Brainstorm":
+			{
+				"description": "determine scope and purpose of the project",
+				"level": -3,
+				"symbols": [
+					{"fulltext": "Brainstorm"},
+					{"ASCII":    "*"},
+					{"Unicode":  "*"},
+					{"HTML":     "*"}
+				]
+			}
+		},
+		{"Refine":
+			{
+				"description": "determine a path for implementing the project",
+				"level": -2,
+				"symbols": [
+					{"fulltext": "Refine"},
+					{"ASCII":    "..."},
+					{"Unicode":  "…"},
+					{"HTML":     "&hellip;"}
+				]
+			}
+		},
+		{"Mockup":
+			{
+				"description": "create a proof-of-concept",
+				"level": -1,
+				"symbols": [
+					{"fulltext": "Mockup"},
+					{"ASCII":    "M"},
+					{"Unicode":  "μ"},
+					{"HTML":     "&mu;"}
+				]
+			}
+		},
+		{"Lambda":
+			{
+				"description": "create a minimum viable product",
+				"level": 0,
+				"symbols": [
+					{"fulltext": "Lambda"},
+					{"ASCII":    "l"},
+					{"Unicode":  "λ"},
+					{"HTML":     "&lambda;"}
+				]
+			}
+		},
+		{"Alpha":
+			{
+				"description": "create a working prototype that can be criticized and changed",
+				"level": 1,
+				"symbols": [
+					{"fulltext": "Alpha"},
+					{"ASCII":    "a"},
+					{"Unicode":  "ɑ"},
+					{"HTML":     "&alpha;"}
+				]
+			}
+		},
+		{"Beta":
+			{
+				"description": "create a working product that can be refined and stablized",
+				"level": 2,
+				"symbols": [
+					{"fulltext": "Beta"},
+					{"ASCII":    "b"},
+					{"Unicode":  "β"},
+					{"HTML":     "&beta;"}
+				]
+			}
+		},
+		{"Stable":
+			{
+				"description": "finalize and distribute the working product",
+				"level": 3,
+				"symbols": [
+					{"fulltext": "Stable"},
+					{"ASCII":    ""},
+					{"Unicode":  ""},
+					{"HTML":     ""}
+				]
+			}
+		}
 	]
 }
