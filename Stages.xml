@@ -1,0 +1,87 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stages>
+	<stage
+		name="Brainstorm"
+		description="determine scope and purpose of the project"
+		level="-3"
+	>
+		<symbols
+			fulltext="Brainstorm"
+			ASCII="*"
+			Unicode="*"
+			HTML="*"
+		/>
+	</stage>
+	<stage
+		name="Refine"
+		description="determine a path for implementing the project"
+		level="-2"
+	>
+		<symbols
+			fulltext="Refine"
+			ASCII="..."
+			Unicode="…"
+			HTML="&amp;hellip;"
+		/>
+	</stage>
+	<stage
+		name="Mockup"
+		description="create a proof-of-concept"
+		level="-1"
+	>
+		<symbols
+			fulltext="Mockup"
+			ASCII="M"
+			Unicode="μ"
+			HTML="&amp;mu;"
+		/>
+	</stage>
+	<stage
+		name="Lambda"
+		description="create a minimum viable product"
+		level="0"
+	>
+		<symbols
+			fulltext="Lambda"
+			ASCII="l"
+			Unicode="λ"
+			HTML="&amp;lambda;"
+		/>
+	</stage>
+	<stage
+		name="Alpha"
+		description="create a working prototype that can be criticized and changed"
+		level="1"
+	>
+		<symbols
+			fulltext="Alpha"
+			ASCII="a"
+			Unicode="ɑ"
+			HTML="&amp;alpha;"
+		/>
+	</stage>
+	<stage
+		name="Beta"
+		description="create a working product that can be refined and stablized"
+		level="2"
+	>
+		<symbols
+			fulltext="Beta"
+			ASCII="b"
+			Unicode="β"
+			HTML="&amp;beta;"
+		/>
+	</stage>
+	<stage
+		name="Stable"
+		description="finalize and distribute the working product"
+		level="3"
+	>
+		<symbols
+			fulltext="Stable"
+			ASCII=""
+			Unicode=""
+			HTML=""
+		/>
+	</stage>
+</stages>
