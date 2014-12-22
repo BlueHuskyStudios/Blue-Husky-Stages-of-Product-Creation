@@ -1,0 +1,80 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stages>
+	<stage>
+		<name>Brainstorm</name>
+		<description>determine scope and purpose of the project</description>
+		<level>-3</level>
+		<symbols>
+			<fulltext>Brainstorm</fulltext>
+			<ASCII>*</ASCII>
+			<Unicode>*</Unicode>
+			<HTML>*</HTML>
+		</symbols>
+	</stage>
+	<stage>
+		<name>Refine</name>
+		<description>determine a path for implementing the project</description>
+		<level>-2</level>
+		<symbols>
+			<fulltext>Refine</fulltext>
+			<ASCII>...</ASCII>
+			<Unicode>…</Unicode>
+			<HTML>&amp;hellip;</HTML>
+		</symbols>
+	</stage>
+	<stage>
+		<name>Mockup</name>
+		<description>create a proof-of-concept</description>
+		<level>-1</level>
+		<symbols>
+			<fulltext>Mockup</fulltext>
+			<ASCII>M</ASCII>
+			<Unicode>μ</Unicode>
+			<HTML>&amp;mu;</HTML>
+		</symbols>
+	</stage>
+	<stage>
+		<name>Lambda</name>
+		<description>create a minimum viable product</description>
+		<level>0</level>
+		<symbols>
+			<fulltext>Lambda</fulltext>
+			<ASCII>l</ASCII>
+			<Unicode>λ</Unicode>
+			<HTML>&amp;lambda;</HTML>
+		</symbols>
+	</stage>
+	<stage>
+		<name>Alpha</name>
+		<description>create a working prototype that can be criticized and changed</description>
+		<level>1</level>
+		<symbols>
+			<fulltext>Alpha</fulltext>
+			<ASCII>a</ASCII>
+			<Unicode>ɑ</Unicode>
+			<HTML>&amp;alpha;</HTML>
+		</symbols>
+	</stage>
+	<stage>
+		<name>Beta</name>
+		<description>create a working product that can be refined and stablized</description>
+		<level>2</level>
+		<symbols>
+			<fulltext>Beta</fulltext>
+			<ASCII>b</ASCII>
+			<Unicode>β</Unicode>
+			<HTML>&amp;beta;</HTML>
+		</symbols>
+	</stage>
+	<stage>
+		<name>Stable</name>
+		<description>finalize and distribute the working product</description>
+		<level>3</level>
+		<symbols>
+			<fulltext>Stable</fulltext>
+			<ASCII></ASCII>
+			<Unicode></ASCII>
+			<HTML></HTML>
+		</symbols>
+	</stage>
+</stages>
