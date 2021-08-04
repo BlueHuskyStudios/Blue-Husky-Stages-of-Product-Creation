@@ -13,4 +13,9 @@ Stages
 |     **Lambda** | create a minimum viable product                               | 0            | l          | λ            | &amp;lambda; |
 |      **Alpha** | create a working prototype that can be criticized and changed | 1            | a          | ɑ            | &amp;alpha;  |
 |       **Beta** | create a working product that can be refined and stablized    | 2            | b          | β            | &amp;beta;   |
-|     **Stable** | finalize and distribute the working product                   | 3            |            |              |              |
+| **Production** | finalize and distribute the working product                   | 3            |            |              |              |
+
+
+
+### Vitrification ###
+When a project is old and will no longer be maintained, it's said to be "vitrified", meaning that you can still see it but shouldn't try to use it anymore.
